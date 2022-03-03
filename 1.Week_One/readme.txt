@@ -1,0 +1,1 @@
+First week is only introduction lectures, no need to coding, lucky you!
