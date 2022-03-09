@@ -12,4 +12,4 @@ for i=1:length(MPG)
         counter = counter + 1;
     end 
 end
-counter
+display(counter);
